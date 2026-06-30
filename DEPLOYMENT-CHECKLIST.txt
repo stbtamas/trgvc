@@ -1,0 +1,14 @@
+TRGVC WEBSITE DEPLOYMENT CHECKLIST
+
+[ ] Create GitHub repository
+[ ] Upload all files to repository root
+[ ] Commit to main branch
+[ ] Enable GitHub Pages using GitHub Actions
+[ ] Confirm site loads on GitHub Pages URL
+[ ] Add/confirm custom domain trgvc.club in Pages settings
+[ ] Check DNS records at your domain provider
+[ ] Enable Enforce HTTPS
+[ ] Replace placeholder YouTube sections with real embeds
+[ ] Replace placeholder SVG covers with final artwork
+[ ] Add Google Analytics / Search Console
+[ ] Submit sitemap: https://trgvc.club/sitemap.xml

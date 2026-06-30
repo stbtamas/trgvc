@@ -1,0 +1,16 @@
+{
+  "name": "TRGVC Official Website",
+  "short_name": "TRGVC",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#03040a",
+  "theme_color": "#7c3cff",
+  "description": "TRGVC is a UK-based electronic music producer, PC gaming creator, and digital media brand blending heavy bass, cinematic atmosphere, Warzone energy, Forza speed, and community-driven content.",
+  "icons": [
+    {
+      "src": "assets/img/favicon.svg",
+      "sizes": "512x512",
+      "type": "image/svg+xml"
+    }
+  ]
+}
